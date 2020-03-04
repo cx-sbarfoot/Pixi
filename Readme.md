@@ -3,4 +3,4 @@
 ```
 docker-compose up
 ```
-example 1
+example 2
